@@ -30,6 +30,9 @@ Install the required Python packages (see above).
 Configure email settings in main_code.py.
 Usage
 Running the Tool
+```bash
+python index.py
+```
 Run the executable or start the tool with main_code.py if using source files.
 Specify the directory to be monitored.
 The tool will create a baseline hash for each file in the directory.
